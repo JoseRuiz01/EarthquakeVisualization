@@ -13,6 +13,8 @@ This project presents an interactive Shiny application designed to analyze and v
 The project uses the **Global Earthquakes 2023** dataset from Kaggle, containing details such as time, location, magnitude, depth, and seismic network coverage.
 [Access Dataset](https://www.kaggle.com/datasets/mustafakeser4/earthquakes-2023-global)
 
+The dataset "earthquakes 2023 global" provides valuable information about earthquakes worldwide in the year 2023. This dataset includes various parameters such as time, location (latitude and longitude), depth, magnitude, magnitude type, and more. In this exploration, we will delve into the dataset to gain insights into the seismic activity observed throughout the year.
+
 ## Core Research Questions
 1. How do key earthquake characteristics change across different regions?
 2. Are there temporal patterns in the types of earthquakes in terms of frequency?

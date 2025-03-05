@@ -10,10 +10,10 @@ This project presents an interactive Shiny application designed to analyze and v
 - **Seismic Network Coverage & Errors**: Investigate the impact of seismic station coverage on earthquake detection and reporting errors.
 
 ## Dataset
-The project uses the **Global Earthquakes 2023** dataset from Kaggle, containing details such as time, location, magnitude, depth, and seismic network coverage.
+The project uses the **Global Earthquakes 2023** dataset from Kaggle.
 [Access Dataset](https://www.kaggle.com/datasets/mustafakeser4/earthquakes-2023-global)
 
-The dataset "earthquakes 2023 global" provides valuable information about earthquakes worldwide in the year 2023. This dataset includes various parameters such as time, location (latitude and longitude), depth, magnitude, magnitude type, and more. In this exploration, we will delve into the dataset to gain insights into the seismic activity observed throughout the year.
+The dataset provides valuable information about earthquakes worldwide in the year 2023. This dataset includes various parameters such as time, location (latitude and longitude), depth, magnitude, magnitude type, and more. It can be used to gain insights into the seismic activity observed throughout the year.
 
 ## Core Research Questions
 1. How do key earthquake characteristics change across different regions?
